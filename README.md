@@ -15,6 +15,7 @@ Hey! Lost in ROM porting forums? I was too. That’s why I put together *everyth
 Jump to:  
 👉 [Full Step-by-Step Guide](guide/)  
 👉 [OTA Download Links](ota_links/)
+
 👉 Check [releases](https://github.com/rajdeep-3305/bbk-rom-porting/releases/tag/v1.0) for apex and overlays required.
 
 ---
